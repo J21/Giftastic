@@ -1,0 +1,58 @@
+/*** styling is simple, tags are semantic. Leaving things this way so you my fellow student can figure things out for yourself ***/
+
+.jumbotron h1{
+	color: red;
+	text-align: center;
+	background-color: chocolate;
+	padding:12px;
+}
+
+.buttonContainer{
+	max-width: 100%
+}
+
+#buttonsDiv{
+	width:100%;
+	text-align: center;
+}
+
+.searchBox{
+	border: solid 3px purple;
+	width:auto;
+	margin-left:37%;
+	padding:5px;
+
+}
+
+#userInputForm{
+	margin:4x;
+}
+
+#userInput:hover{
+	border: solid 2px orange;
+}
+
+#submitUserData{
+	font-size:1.2em;
+}
+
+.foodButtons{
+	margin:4px;
+}
+
+.foodIMG{
+	max-width: 100%
+	max-height: 100%;
+}
+
+.giphyFooter{
+	background-color: white;
+	min-height: 30px;
+	text-align: center;
+	color:black;
+	font-size: 1.2em;
+}
+
+.hideMe{
+	display:none;
+}
