@@ -1,1 +1,1 @@
-# Giftastic
+Hello my fellow sweet tooths! Feel like looking at some desserts? Well then this one is for you! This project uses the GIPHY api to display to you at most 10 different pictures of delicious, decadent desserts for you to see. Let's see if we can get all of you to get your sweet tooth on!
